@@ -16,7 +16,8 @@ Furthermore you have access to many ready-to-use classes and packages in order t
 
 ## Planned features
 
-- Automatic skeleton generator
-- Integrated CSRF protection
-- Use PDO and parametric queries instead of string sanitizers
-- Integration with Inertia.js
+[ ] Automatic skeleton generator
+[x] Integrated CSRF protection 
+[ ] Use PDO and parametric queries instead of string sanitizers
+[ ] Integration with Inertia.js
+[ ] Creating a web console that replace the CLI
